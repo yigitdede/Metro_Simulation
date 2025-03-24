@@ -24,11 +24,11 @@ typing: Tip tanımlamaları için kullanıldı.
 
 # Algoritmaların Çalışma Mantığı
 
-1. BFS (Breadth-First Search) Algoritması
+- 1. BFS (Breadth-First Search) Algoritması
 
 BFS, bir noktadan başlayarak en kısa yolun bulunması için kullanılan bir algoritmadır. Bu projede en az aktarmalı rotayı bulmak için kullanılmıştır.
 
-Nasıl çalışır?
+- Nasıl çalışır?
 
 Bir kuyruk yapısı kullanarak istasyonlar seviyesi seviyesine aranır.
 
@@ -36,11 +36,11 @@ Her adımda, mevcut istasyonun komşu istasyonları kuyruğa eklenir.
 
 Hedef istasyona ulaşıldığında rota döndürülür.
 
-2. A* (A-Star) Algoritması
+- 2. A* (A-Star) Algoritması
 
 A* algoritması, en kısa süreli rotayı bulmak için kullanılan bir en iyi öncelikli arama algoritmasıdır.
 
-Nasıl çalışır?
+- Nasıl çalışır?
 
 Bir öncelikli kuyruk (heapq) kullanılarak, en düşük maliyetli (en hızlı) rota hesaplanır.
 
