@@ -7,7 +7,7 @@ Bu proje, bir metro ağının en az aktarma veya en hızlı rota ile geçişini 
 - [Kullanılan Teknolojiler ve Kütüphaneler](#Kullanılan-Teknolojiler-ve-Kütüphaneler)
 - [Algoritmaların Çalışma Mantığı](#Algoritmaların-Çalışma-Mantığı)
 - [Neden Bu Algoritmalar Kullanıldı?](#Neden-Bu-Algoritmalar-Kullanıldı?)
-- [Örnek Kullanım ve Test Sonuçları](#Örnek-Kullanım-ve-Test-Sonuçları)
+- [Örnek Kullanım ve Test Sonuçları](#Örnek-Kullanım)
 - [Test Senaryoları](#Test-Senaryoları)
 - [Projeyi Geliştirme Fikirleri](#Projeyi-Geliştirme-Fikirleri)
 
@@ -55,7 +55,7 @@ BFS, en az aktarmalı rotayı bulmada en etkili algoritmalardan biridir.
 
 A*, en hızlı rotayı bulmada etkili ve verimli bir algoritmadır.
 
-# Örnek Kullanım ve Test Sonuçları
+# Örnek Kullanım
 
 Projede aşağıdaki metro hatları ve istasyonlar tanımlanmıştır:
 
@@ -76,6 +76,18 @@ En hızlı rota (Dakika): AŞTİ -> Kızılay -> Demetevler -> OSB (Toplam: 15 d
 
 En az aktarmalı rota: Batıkent -> Demetevler -> Gar -> Keçiören
 En hızlı rota (Dakika): Batıkent -> Demetevler -> Gar -> Keçiören (Toplam: 21 dk)
+
+3. Kızılay'dan Gar'a:
+En az aktarmalı rota: Kızılay -> Sıhhiye -> Gar
+En hızlı rota (7 dakika): Kızılay -> Sıhhiye -> Gar
+
+4. Ulus'tan Batıkent'e:
+En az aktarmalı rota: Ulus -> Demetevler -> Demetevler -> Batıkent
+En hızlı rota (16 dakika): Ulus -> Demetevler -> Demetevler -> Batıkent
+
+5. OSB'den AŞTİ'ye:
+En az aktarmalı rota: OSB -> Demetevler -> Ulus -> Kızılay -> Kızılay -> AŞTİ
+En hızlı rota (25 dakika): OSB -> Demetevler -> Ulus -> Kızılay -> Kızılay -> AŞTİ
 
  # Projeyi Geliştirme Fikirleri
 
