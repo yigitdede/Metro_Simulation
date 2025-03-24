@@ -7,6 +7,7 @@ Bu proje, bir metro ağının en az aktarma veya en hızlı rota ile geçişini 
 - [Kullanılan Teknolojiler ve Kütüphaneler](#Kullanılan-Teknolojiler-ve-Kütüphaneler)
 - [Algoritmaların Çalışma Mantığı](#Algoritmaların-Çalışma-Mantığı)
 - [Neden Bu Algoritmalar Kullanıldı?](#Neden-Bu-Algoritmalar-Kullanıldı?)
+- [Örnek Kullanım ve Test Sonuçları](#Örnek-Kullanım-ve-Test-Sonuçları)
 - [Test Senaryoları](#Test-Senaryoları)
 - [Projeyi Geliştirme Fikirleri](#Projeyi-Geliştirme-Fikirleri)
 
@@ -53,7 +54,8 @@ En hızlı rota bulunduğunda döndürülür.
 BFS, en az aktarmalı rotayı bulmada en etkili algoritmalardan biridir.
 
 A*, en hızlı rotayı bulmada etkili ve verimli bir algoritmadır.
-Örnek Kullanım ve Test Sonuçları
+
+# Örnek Kullanım ve Test Sonuçları
 
 Projede aşağıdaki metro hatları ve istasyonlar tanımlanmıştır:
 
