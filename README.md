@@ -68,7 +68,7 @@ En hızlı rota (Dakika): AŞTİ -> Kızılay -> Demetevler -> OSB (Toplam: 15 d
 En az aktarmalı rota: Batıkent -> Demetevler -> Gar -> Keçiören
 En hızlı rota (Dakika): Batıkent -> Demetevler -> Gar -> Keçiören (Toplam: 21 dk)
 
-Projeyi Geliştirme Fikirleri
+ # Projeyi Geliştirme Fikirleri
 
 Daha Gelişmiş Heuristikler: A* algoritmasında mesafe ve süre dışında yoğunluk verileri de eklenerek en iyi rota bulunabilir.
 
