@@ -1,7 +1,7 @@
 # Metro_Simulation
  # Proje Hakkında
 
-Bu proje, bir metro ağının en az aktarma veya en hızlı rota ile geçişini hesaplamak için geliştirilmiştir. Kullanıcı, iki istasyon arasındaki en kısa süreli rotayı veya en az aktarmalı rotayı bulabilir.
+Bu proje, bir metro ağının en az aktarma veya en hızlı rota ile geçişini hesaplamak için geliştirilmiştir. Kullanıcı, bu simülasyon ile iki istasyon arasındaki en kısa süreli rotayı veya en az aktarmalı rotayı bulabilir.
 
 ## İçindekiler
 - [Kullanılan Teknolojiler ve Kütüphaneler](#Kullanılan-Teknolojiler-ve-Kütüphaneler)
