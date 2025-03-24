@@ -70,23 +70,31 @@ Turuncu Hat: Batıkent, Demetevler, Gar, Keçiören
 1. AŞTİ'den OSB'ye
 
 En az aktarmalı rota: AŞTİ -> Kızılay -> Ulus -> Demetevler -> OSB
+
 En hızlı rota (Dakika): AŞTİ -> Kızılay -> Demetevler -> OSB (Toplam: 15 dk)
 
 2. Batıkent'ten Keçiören'e
 
 En az aktarmalı rota: Batıkent -> Demetevler -> Gar -> Keçiören
+
 En hızlı rota (Dakika): Batıkent -> Demetevler -> Gar -> Keçiören (Toplam: 21 dk)
 
 3. Kızılay'dan Gar'a:
+
 En az aktarmalı rota: Kızılay -> Sıhhiye -> Gar
+
 En hızlı rota (7 dakika): Kızılay -> Sıhhiye -> Gar
 
 4. Ulus'tan Batıkent'e:
+
 En az aktarmalı rota: Ulus -> Demetevler -> Demetevler -> Batıkent
+
 En hızlı rota (16 dakika): Ulus -> Demetevler -> Demetevler -> Batıkent
 
 5. OSB'den AŞTİ'ye:
+   
 En az aktarmalı rota: OSB -> Demetevler -> Ulus -> Kızılay -> Kızılay -> AŞTİ
+
 En hızlı rota (25 dakika): OSB -> Demetevler -> Ulus -> Kızılay -> Kızılay -> AŞTİ
 
  # Projeyi Geliştirme Fikirleri
